@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/boutique-bike-repair/static/css/main.f4566626.css",
-    "main.js": "/boutique-bike-repair/static/js/main.07316b4f.js",
+    "main.js": "/boutique-bike-repair/static/js/main.7a54171b.js",
     "index.html": "/boutique-bike-repair/index.html",
     "main.f4566626.css.map": "/boutique-bike-repair/static/css/main.f4566626.css.map",
-    "main.07316b4f.js.map": "/boutique-bike-repair/static/js/main.07316b4f.js.map"
+    "main.7a54171b.js.map": "/boutique-bike-repair/static/js/main.7a54171b.js.map"
   },
   "entrypoints": [
     "static/css/main.f4566626.css",
-    "static/js/main.07316b4f.js"
+    "static/js/main.7a54171b.js"
   ]
 }
