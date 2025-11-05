@@ -3,9 +3,17 @@ import GalleryGrid from '../ui/GalleryGrid';
 
 
 const IMAGES = [
-'/gallery/gallery1.jpg','/gallery/gallery2.jpg','/gallery/gallery3.jpg','/gallery/gallery4.jpg','/gallery/gallery5.jpg','/gallery/gallery6.jpg','/gallery/gallery7.jpg','/gallery/gallery8.jpg',,'/gallery/gallery9.jpg','/gallery/gallery10.jpg'
+  `${process.env.PUBLIC_URL}/gallery/gallery1.jpg`,
+  `${process.env.PUBLIC_URL}/gallery/gallery2.jpg`,
+  `${process.env.PUBLIC_URL}/gallery/gallery3.jpg`,
+  `${process.env.PUBLIC_URL}/gallery/gallery4.jpg`,
+  `${process.env.PUBLIC_URL}/gallery/gallery5.jpg`,
+  `${process.env.PUBLIC_URL}/gallery/gallery6.jpg`,
+  `${process.env.PUBLIC_URL}/gallery/gallery7.jpg`,
+  `${process.env.PUBLIC_URL}/gallery/gallery8.jpg`,
+  `${process.env.PUBLIC_URL}/gallery/gallery9.jpg`,
+  `${process.env.PUBLIC_URL}/gallery/gallery10.jpg`
 ];
-
 
 export default function Gallery(){
 return (

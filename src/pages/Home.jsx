@@ -12,7 +12,7 @@ return (
 <CTA/>
 </div>
 <div className="hero-image">
-<img src="/hero-bike.jpg" alt="custom frame" />
+<img src={`${process.env.PUBLIC_URL}/hero-bike.jpg`} alt="custom frame" />
 </div>
 </section>
 

@@ -6,7 +6,7 @@ export default function Header(){
 return (
 <header className="site-header">
 <div className="brand">
-<img src="/logo-placeholder.jpg" alt="logo" className="logo" />
+<img src= {`${process.env.PUBLIC_URL}/logo-placeholder.jpg`} alt="logo" className="logo" />
 <div>
 <h1>Boutique Bike Repair</h1>
 <p className="tag">Custom frames. Honest service.</p>
