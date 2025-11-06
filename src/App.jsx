@@ -19,7 +19,6 @@ return (
 <Route path="/services" element={<Services/>} />
 <Route path="/booking" element={<Booking/>} />
 <Route path="/gallery" element={<Gallery/>} />
-<Route path="/shop" element={<Shop/>} />
 </Routes>
 </main>
 <Footer />
