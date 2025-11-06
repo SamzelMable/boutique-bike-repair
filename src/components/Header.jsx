@@ -17,7 +17,6 @@ return (
 <Link to="/services">Services</Link>
 <Link to="/booking">Book</Link>
 <Link to="/gallery">Gallery</Link>
-<Link to="/shop">Shop</Link>
 </nav>
 </header>
 );

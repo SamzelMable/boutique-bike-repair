@@ -4,7 +4,6 @@ import Home from './pages/Home';
 import Services from './pages/Services';
 import Booking from './pages/Booking';
 import Gallery from './pages/Gallery';
-import Shop from './pages/Shop';
 import Footer from './components/Footer';
 import Header from './components/Header';
 
